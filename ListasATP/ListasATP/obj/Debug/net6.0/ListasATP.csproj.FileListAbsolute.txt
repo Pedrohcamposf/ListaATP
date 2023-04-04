@@ -1,0 +1,15 @@
+C:\Users\pedro\source\repos\ListasATP\ListasATP\obj\Debug\net6.0\ListasATP.csproj.AssemblyReference.cache
+C:\Users\pedro\source\repos\ListasATP\ListasATP\obj\Debug\net6.0\ListasATP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\source\repos\ListasATP\ListasATP\obj\Debug\net6.0\ListasATP.AssemblyInfoInputs.cache
+C:\Users\pedro\source\repos\ListasATP\ListasATP\obj\Debug\net6.0\ListasATP.AssemblyInfo.cs
+C:\Users\pedro\source\repos\ListasATP\ListasATP\obj\Debug\net6.0\ListasATP.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\ListasATP\ListasATP\bin\Debug\net6.0\ListasATP.exe
+C:\Users\pedro\source\repos\ListasATP\ListasATP\bin\Debug\net6.0\ListasATP.deps.json
+C:\Users\pedro\source\repos\ListasATP\ListasATP\bin\Debug\net6.0\ListasATP.runtimeconfig.json
+C:\Users\pedro\source\repos\ListasATP\ListasATP\bin\Debug\net6.0\ListasATP.dll
+C:\Users\pedro\source\repos\ListasATP\ListasATP\bin\Debug\net6.0\ListasATP.pdb
+C:\Users\pedro\source\repos\ListasATP\ListasATP\obj\Debug\net6.0\ListasATP.dll
+C:\Users\pedro\source\repos\ListasATP\ListasATP\obj\Debug\net6.0\refint\ListasATP.dll
+C:\Users\pedro\source\repos\ListasATP\ListasATP\obj\Debug\net6.0\ListasATP.pdb
+C:\Users\pedro\source\repos\ListasATP\ListasATP\obj\Debug\net6.0\ListasATP.genruntimeconfig.cache
+C:\Users\pedro\source\repos\ListasATP\ListasATP\obj\Debug\net6.0\ref\ListasATP.dll
