@@ -1,0 +1,15 @@
+C:\Users\1448433\source\repos\aula05_04_2023\aula05_04_2023\obj\Debug\net6.0\EstruturaRepeticao.csproj.AssemblyReference.cache
+C:\Users\1448433\source\repos\aula05_04_2023\aula05_04_2023\obj\Debug\net6.0\EstruturaRepeticao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1448433\source\repos\aula05_04_2023\aula05_04_2023\obj\Debug\net6.0\EstruturaRepeticao.AssemblyInfoInputs.cache
+C:\Users\1448433\source\repos\aula05_04_2023\aula05_04_2023\obj\Debug\net6.0\EstruturaRepeticao.AssemblyInfo.cs
+C:\Users\1448433\source\repos\aula05_04_2023\aula05_04_2023\obj\Debug\net6.0\EstruturaRepeticao.csproj.CoreCompileInputs.cache
+C:\Users\1448433\source\repos\aula05_04_2023\aula05_04_2023\bin\Debug\net6.0\EstruturaRepeticao.exe
+C:\Users\1448433\source\repos\aula05_04_2023\aula05_04_2023\bin\Debug\net6.0\EstruturaRepeticao.deps.json
+C:\Users\1448433\source\repos\aula05_04_2023\aula05_04_2023\bin\Debug\net6.0\EstruturaRepeticao.runtimeconfig.json
+C:\Users\1448433\source\repos\aula05_04_2023\aula05_04_2023\bin\Debug\net6.0\EstruturaRepeticao.dll
+C:\Users\1448433\source\repos\aula05_04_2023\aula05_04_2023\bin\Debug\net6.0\EstruturaRepeticao.pdb
+C:\Users\1448433\source\repos\aula05_04_2023\aula05_04_2023\obj\Debug\net6.0\EstruturaRepeticao.dll
+C:\Users\1448433\source\repos\aula05_04_2023\aula05_04_2023\obj\Debug\net6.0\refint\EstruturaRepeticao.dll
+C:\Users\1448433\source\repos\aula05_04_2023\aula05_04_2023\obj\Debug\net6.0\EstruturaRepeticao.pdb
+C:\Users\1448433\source\repos\aula05_04_2023\aula05_04_2023\obj\Debug\net6.0\EstruturaRepeticao.genruntimeconfig.cache
+C:\Users\1448433\source\repos\aula05_04_2023\aula05_04_2023\obj\Debug\net6.0\ref\EstruturaRepeticao.dll
